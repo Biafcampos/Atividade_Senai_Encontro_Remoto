@@ -1,4 +1,4 @@
 <
   backgrond-color: blue
   color : White
-  fonte :normal 20 pt Arial 
+  fonte :normal 10 pt Arial 
