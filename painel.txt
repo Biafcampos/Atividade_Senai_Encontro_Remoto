@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  
+=======
+Teste da pagina
+>>>>>>> teste
